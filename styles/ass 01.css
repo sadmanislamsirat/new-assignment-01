@@ -1,3 +1,61 @@
-body {
-    background-color: red;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+
+    /* shared  */
+
+.btn {
+    background-color: #469165;
+    border: none;
+    border-radius: 4px;
+    font-weight: 600;
+    color: white;
+     gap: 10px;
+     padding: 12px 16px ;
+     display: flex; 
+    border: none;
+    justify-content: center;
+     align-items: center;
+}
+
+
+ .btn:hover {
+    background-color: #30B868;
+}
+
+ header {
+    /* border: red solid 2px; */
+     background-color: #FFFFFF;
+
+}
+
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 92px;   
+}
+nav .nav-img {
+    width: 139px;
+    height: 60px;
+
+}
+nav .nav-text {
+    display: flex;
+    gap: 32px;
+    padding: 34px 0;
+    font-weight: 500;
+    color: #000000;
+}
+ nav .btn button {
+   padding: 12.5px 16px ;
+    
+    width: 164px;
+  
+}
+ 
