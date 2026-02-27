@@ -334,6 +334,7 @@ nav .nav-text {
     align-items: center;
     display: flex;
     /* padding: 0 550px 0 600px; */
-    padding: 0 630px;
+     padding: 0 450px;
+    margin: 0 120px 10px 120px;
  }
 
