@@ -338,3 +338,45 @@ nav .nav-text {
     margin: 0 120px 10px 120px;
  }
 
+#end {
+    background-color: #001931;
+    padding-top: 120px;
+    
+
+}
+
+ .end-head {
+    display: flex;
+    padding: 0 120px 80px 120px ;
+   justify-content: space-between;
+
+}
+
+.end-text {
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.end-text p {
+    margin-left: 12px;
+    margin-bottom: 16px;
+}
+
+.end-text img {
+    display: 50%;
+}
+
+hr {
+    margin-left: 120px ;
+    margin-right: 120px ;
+    margin-bottom: 30px;
+    color: #E5E7EB;
+}
+
+.end-section {
+    color:#FAFAFA ;
+    height: 54px;
+    text-align: center;
+    padding: 0 120px 30px 120px ;
+}
