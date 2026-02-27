@@ -295,3 +295,45 @@ nav .nav-text {
    display: inline-flex;
   
 }
+
+/* early access   */
+ 
+ #early {
+     /* padding-top: 130px; */
+     padding: 2px 120px 120px 120px;
+ }
+
+
+ #early .early-background {
+    width: 85%;
+  max-width: 1600px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #F7F6F2;
+  padding: 80px 40px;
+ }
+
+ .ready-head h2 {
+    height: 48px;
+    font-weight: 700;
+    font-size: 40px;
+    font-style: bold;
+    margin-bottom: 16px;
+    color: #001931;
+ }
+.ready-head p {
+    color: #627382;
+    font-size: 16px;
+    line-height: 24px;
+    height: 48px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+ .new {
+    display: inline;
+    align-items: center;
+    display: flex;
+    /* padding: 0 550px 0 600px; */
+    padding: 0 630px;
+ }
+
